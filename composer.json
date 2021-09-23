@@ -1,0 +1,17 @@
+{
+    "name": "akincand/PayerIT",
+    "authors": [
+        {
+            "name": "Akıncan Demirel",
+            "email": "akincan@changeit.com.tr"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "PayerIT": "php-sdk/src/"
+        }
+    }
+}
